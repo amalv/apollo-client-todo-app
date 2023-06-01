@@ -14,10 +14,10 @@
 
 - ⌛ **Enable CI**
 
-  - 🛠️ Configure CI pipeline
-  - ✅ Add tests to CI pipeline
-  - 🧹 Run ESLint in CI pipeline
-  - 🚀 Set up staging environment deployment
+  - 🔧 Configure CI pipeline
+  - ⌛ Add tests to CI pipeline
+  - ⌛ Run ESLint in CI pipeline
+  - ⌛ Set up staging environment deployment
 
 - ⌛ **Implement Semantic Release**
 
